@@ -1,0 +1,14 @@
+C:\Users\Axel\source\repos\ECE PROJET FINAL\ECE PROJET FINAL\obj\Debug\ECE PROJET FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Axel\source\repos\ECE PROJET FINAL\ECE PROJET FINAL\obj\Debug\ECE PROJET FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\ECE PROJET FINAL\ECE PROJET FINAL\bin\Debug\ECE PROJET FINAL.exe.config
+C:\Users\Axel\source\repos\ECE PROJET FINAL\ECE PROJET FINAL\bin\Debug\ECE PROJET FINAL.exe
+C:\Users\Axel\source\repos\ECE PROJET FINAL\ECE PROJET FINAL\bin\Debug\ECE PROJET FINAL.pdb
+C:\Users\Axel\source\repos\ECE PROJET FINAL\ECE PROJET FINAL\obj\Debug\ECE PROJET FINAL.exe
+C:\Users\Axel\source\repos\ECE PROJET FINAL\ECE PROJET FINAL\obj\Debug\ECE PROJET FINAL.pdb
+C:\Users\Axel\Desktop\ECE PROJET FINAL\ECE PROJET FINAL\obj\Debug\ECE PROJET FINAL.csprojResolveAssemblyReference.cache
+C:\Users\Axel\Desktop\ECE PROJET FINAL\ECE PROJET FINAL\obj\Debug\ECE PROJET FINAL.csproj.CoreCompileInputs.cache
+C:\Users\Axel\Desktop\ECE PROJET FINAL\ECE PROJET FINAL\obj\Debug\ECE PROJET FINAL.exe
+C:\Users\Axel\Desktop\ECE PROJET FINAL\ECE PROJET FINAL\obj\Debug\ECE PROJET FINAL.pdb
+C:\Users\Axel\Desktop\ECE PROJET FINAL\ECE PROJET FINAL\bin\Debug\ECE PROJET FINAL.exe.config
+C:\Users\Axel\Desktop\ECE PROJET FINAL\ECE PROJET FINAL\bin\Debug\ECE PROJET FINAL.exe
+C:\Users\Axel\Desktop\ECE PROJET FINAL\ECE PROJET FINAL\bin\Debug\ECE PROJET FINAL.pdb
